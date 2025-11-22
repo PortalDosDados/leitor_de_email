@@ -26,11 +26,11 @@ Este projeto é um robô de automação que monitora uma caixa de entrada (Gmail
 ## ⚙️ Configuração e Instalação
 
 ## 1. Clone o repositório
-```bash
+bash
 git clone [https://github.com/SEU-USUARIO/leitor-mckinsey.git](https://github.com/SEU-USUARIO/leitor-mckinsey.git)
 cd leitor-mckinsey
 
-##2. Crie o Ambiente Virtual
+## 2. Crie o Ambiente Virtual
 python -m venv venv
 # Ative o ambiente:
 # No Windows:
@@ -38,7 +38,7 @@ python -m venv venv
 # No Linux/Mac:
 source venv/bin/activate
 
-##3. Instale as dependências
+## 3. Instale as dependências
 pip install -r requirements.txt
 
 ##4. Configuração das Credenciais (.env)

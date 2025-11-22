@@ -32,10 +32,10 @@ cd leitor-mckinsey
 
 ## 2. Crie o Ambiente Virtual
 python -m venv venv
-# Ative o ambiente:
-# No Windows:
+Ative o ambiente:
+No Windows:
 .\venv\Scripts\activate
-# No Linux/Mac:
+No Linux/Mac:
 source venv/bin/activate
 
 ## 3. Instale as dependências

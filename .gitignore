@@ -1,0 +1,6 @@
+# Ignorar credenciais e ambiente virtual
+.env
+venv/
+__pycache__/
+*.log
+.DS_Store

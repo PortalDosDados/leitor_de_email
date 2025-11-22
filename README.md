@@ -53,3 +53,4 @@ Crie um arquivo chamado .env na raiz do projeto (ele não será enviado ao GitHu
 * TELEGRAM_CHAT_ID=seu_id_numerico_telegram
 
 Nota: Para obter a EMAIL_PASS, ative a autenticação de dois fatores no Google e gere uma "Senha de App". Não use sua senha de login habitual.
+

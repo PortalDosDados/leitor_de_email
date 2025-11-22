@@ -54,3 +54,13 @@ Crie um arquivo chamado .env na raiz do projeto (ele não será enviado ao GitHu
 
 Nota: Para obter a EMAIL_PASS, ative a autenticação de dois fatores no Google e gere uma "Senha de App". Não use sua senha de login habitual.
 
+## Personalizar a Lista VIP
+Abra o arquivo main.py e edite a lista VIPS para adicionar ou remover remetentes que deseja monitorar:
+
+VIPS = [
+    "mckinsey",
+    "harvard",
+    "mit.edu",
+    "newsletter@dados",
+    "medium"
+]

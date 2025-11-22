@@ -1,10 +1,8 @@
-# 🛡️ Lancelot Briefing Bot (Leitor de E-mail com IA)
-
-> "Quando não se agrega valor, se agrega custo."
+# Lancelot Briefing Bot (Leitor de E-mail com IA)
 
 Este projeto é um robô de automação que monitora uma caixa de entrada (Gmail), filtra e-mails de remetentes estratégicos (como McKinsey, Harvard, MIT), lê o conteúdo utilizando Inteligência Artificial (Google Gemini) e envia um resumo executivo traduzido para o Telegram.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * **Monitoramento VIP:** Varre a caixa de entrada buscando apenas remetentes configurados na lista de vigilância.
 * **IA Integrada:** Utiliza o modelo `Gemini 2.5 Flash` (Google) para leitura rápida e contextual.
@@ -13,7 +11,7 @@ Este projeto é um robô de automação que monitora uma caixa de entrada (Gmail
 * **Segurança:** Credenciais protegidas via variáveis de ambiente (`.env`).
 * **Automação:** Pronto para rodar via Agendador de Tarefas do Windows.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python 3.12**
 * **Google Generative AI** (Gemini API)
@@ -23,7 +21,7 @@ Este projeto é um robô de automação que monitora uma caixa de entrada (Gmail
 
 ---
 
-## ⚙️ Configuração e Instalação
+## Configuração e Instalação
 
 ## 1. Clone o repositório
 

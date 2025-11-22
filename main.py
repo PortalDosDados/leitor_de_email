@@ -17,7 +17,7 @@ TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 # --- LISTA VIP (Edite aqui para adicionar novos remetentes) ---
 # O robô vai buscar e-mails que contenham qualquer um destes nomes no remetente
 VIPS = [ 
-    "newsletter", 
+    "newsletter@mail.datahackers.com.br" 
 ]
 
 # Configura a IA

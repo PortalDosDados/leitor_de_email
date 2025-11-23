@@ -25,10 +25,6 @@ Este projeto é um robô de automação que monitora uma caixa de entrada (Gmail
 
 ## 1. Clone o repositório
 
-git clone [https://github.com/SEU-USUARIO/leitor-mckinsey.git](https://github.com/SEU-USUARIO/leitor-mckinsey.git)
-cd leitor-mckinsey
-
-
 ## 2. Crie o Ambiente Virtual
 python -m venv venv
 
